@@ -1,5 +1,13 @@
 package Demo.SDET;
 
-public class sample {
+import org.testng.annotations.Test;
+
+public class sample
+{
+	@Test
+	public void Sample()
+	{
+		System.out.println("User name 1");
+	}
 
 }
