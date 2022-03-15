@@ -14,5 +14,9 @@ public void bh(){
 	System.out.println("user 2");
 		
 }
-
+@Test
+public void bh2(){
+	System.out.println("user 4");
+		
+}
 }
