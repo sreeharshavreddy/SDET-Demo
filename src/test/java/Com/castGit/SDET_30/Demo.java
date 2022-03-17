@@ -7,6 +7,10 @@ public class Demo
 @Test
 	public void Sam(){
 		System.out.println("user 1");
+		System.out.println("Akshatha");
+		System.out.println("Roja");
+		
+		
 			
 	}
 @Test
